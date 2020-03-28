@@ -44,6 +44,15 @@ Be The Hero is an application that will connect people who are willing to help N
 
 #### Muito importante iniciar o Backend primeiro!
 
+## :rocket: Tecnologias 
+
+- ReactJS
+- Styled-Components
+- Axios 
+- React Hooks
+- Eslint
+- Prettier
+- Jest
 
 
 ### 💻 Preview

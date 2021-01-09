@@ -16,16 +16,8 @@
   </a>
 </p>
 
-<h3 align="center">
-  #rocketseat #bethehero #omnistack #nodejs #javascript #react #reactnative #express #sequelize #insomnia #mobile #ios #android #eslint #mvc #androidstudio 
-</h3>
 
-
-## :rocket: Sobre a Aplicação
-
-
-<h5> 
-Be The Hero é uma aplicação que vai conectar pessoas com interesse em ajuda organizações  sem fins lucrativos, que muitas vezes precisa de algum valor para tratar algum caso específico,  Esse sistema veio para resolver exatamente isso. </h5>
+## :rocket: About the Application
 
 <h5>
 Be The Hero is an application that will connect people who are willing to help Non-governmental non-profit organizations, which often need some value to address a specific case and this system has come to solve just that.
@@ -36,15 +28,13 @@ Be The Hero is an application that will connect people who are willing to help N
 
 # Requisitos
 
+- To access the application backend, you need the repository: https://github.com/michelbernardods/ong-backend
+- yarn init or npm install to download dependencies
+- yarn start or npm start
 
+#### Very important to start the Backend first!
 
-- Para ter acessar o backend da aplicação precisao o repositório: https://github.com/michelbernardods/ong-backend
-- yarn init ou npm install para baixar as dependências
-- yarn start ou npm start 
-
-#### Muito importante iniciar o Backend primeiro!
-
-## :rocket: Tecnologias 
+## :rocket: Technology 
 
 - ReactJS
 - Styled-Components
